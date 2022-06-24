@@ -1,0 +1,17 @@
+{
+  "name": "cypress-e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cyo": "cypress open",
+    "cyr": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "4.0.2",
+    "prettier": "^2.7.1"
+  }
+}
